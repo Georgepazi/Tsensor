@@ -21,7 +21,7 @@ in questo caso
 temp=((input(A0)*(5.0/1024))-0.5)/0.01
 
 
-![LM35](/Picutres/Tsensor.jpg)
+![LM35](/Pictures/Tsensor.jpg)
 
 ### In particolare il sensore della temperatura ha 3 pin che vengono connessi ad Arduino:
 
@@ -38,7 +38,7 @@ temp=((input(A0)*(5.0/1024))-0.5)/0.01
 
 ### Seguire il seguente schema per connettere correttamente tra di loro i commponenti
 
-![LM35](/Picutres/ArduinoT.jpg)
+![LM35](/Pictures/ArduinoT.PNG)
 
 il Datasheet completo del componente elettronico LM35 si trova qui:[LM35datasheet](https://www.ti.com/lit/ds/symlink/lm35.pdf)
 
